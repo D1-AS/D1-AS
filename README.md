@@ -1,19 +1,12 @@
 # D1-AS
 
 ```text
-██████╗ ██╗ █████╗ ███████╗    D1-AS
-██╔══██╗██║██╔══██╗██╔════╝    ─────────────────────────────
-██║  ██║██║███████║███████╗    OS       : macOS / Windows
-██║  ██║██║██╔══██║╚════██║    Role     : Developer
-██████╔╝██║██║  ██║███████║    Stack    : Flutter / Dart / Kotlin
-╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝    Backend  : Supabase
-                                Tools    : Android Studio / Git
-                                Age      : <!-- AGE_START -->21 years, 10 months, 28 days<!-- AGE_END -->
-                                Status   : baby go coding ... vibecoding ;)
+██████╗  ██╗  █████╗  ███████╗       name:                                      Dias
+██╔══██╗ ██║ ██╔══██╗ ██╔════╝       age:           21 years, 10 months, 28 days
+██║  ██║ ██║ ███████║ ███████╗       role:                                 developer
+██║  ██║ ██║ ██╔══██║ ╚════██║       stack:                  Flutter / Dart / Kotlin
+██████╔╝ ██║ ██║  ██║ ███████║       backend:                              Supabase
+╚═════╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝       tools:              Android Studio / Git / GitHub
+                                       github:                                   D1-AS
+                                       status:       baby go coding ... vibecoding ;)
 ```
-
-## About me
-Building mobile applications and learning by shipping real projects.
-
-## Tech stack
-`Flutter` `Dart` `Kotlin` `Supabase` `Git` `GitHub` `Android Studio`
